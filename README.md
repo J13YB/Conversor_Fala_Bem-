@@ -1,4 +1,4 @@
-# Conversor dFala Bem!
+# Conversor Fala Bem!
 
 Esta aplicação converte mensagens com tom potencialmente passivo-agressivo em versões mais empáticas e construtivas.
 
